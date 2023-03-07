@@ -5,7 +5,6 @@
 #include <lcd_controller.h>
 #include <gfx.hpp>
 #include <uix.hpp>
-using namespace arduino;
 using namespace gfx;
 using namespace uix;
 // downloaded from fontsquirrel.com and header generated with
