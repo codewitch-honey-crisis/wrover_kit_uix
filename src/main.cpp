@@ -3,7 +3,6 @@
 
 #include <Arduino.h>
 #include <lcd_controller.h>
-#include <button.hpp>
 #include <gfx.hpp>
 #include <uix.hpp>
 using namespace arduino;
